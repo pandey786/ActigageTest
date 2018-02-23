@@ -1,0 +1,6 @@
+framework module Pods_ActigageTest {
+  umbrella header "Pods-ActigageTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
